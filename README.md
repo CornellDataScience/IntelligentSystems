@@ -29,3 +29,4 @@ Each semester, our team breaks into groups to pursue projects that our members a
 
 ## Previous Semesters
 * [Neural Style Transfer For Text](https://github.com/CornellDataScience/NLP_Research-FA17/tree/master/dl_style_transfer)
+* [Statoil/C-CORE Iceberg Classifier Challenge](https://github.com/CornellDataScience/Kaggle-FA17/tree/master/iceberg)
