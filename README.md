@@ -4,7 +4,7 @@
 
 
 **Team Leads:** [Ryan Butler](https://github.com/TheButlah) (CS '19) and [Kevin Luo](https://github.com/KevLuo) (CS '20)  
-**Advisor:** Prof. Bharath Hariharan
+**Advisor:** [Prof. Bharath Hariharan](http://home.bharathh.info)
 
 ## About Us
 The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science](cornelldata.science), a student led undergraduate project team at Cornell University. You can take a look at some of our repositories to see our individual work.
