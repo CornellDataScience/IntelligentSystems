@@ -3,7 +3,7 @@
 [![Cornell Data Science Logo](images/CDS-banner.png)](cornelldata.science)
 
 
-**Team Leads:** Ryan Butler (CS '19) and Kevin Luo (CS '20)
+**Team Leads:** Ryan Butler (CS '19) and Kevin Luo (CS '20)  
 **Advisor:** Prof. Bharath Hariharan
 
 ## About Us
