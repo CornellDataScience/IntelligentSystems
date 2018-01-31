@@ -7,24 +7,25 @@
 **Advisor:** [Prof. Bharath Hariharan](http://home.bharathh.info)
 
 ## About Us
-The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science](cornelldata.science), a student led undergraduate project team at Cornell University. You can take a look at some of our repositories to see our individual work.
+The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science](cornelldata.science), a student led undergraduate project team at Cornell University. We are a group of students passionate about Deep Learning, whose shared knowledge and expertise enables us to pursue some of the most exciting Deep Learning projects at Cornell. Our team consists of about a dozen members, and we have worked on numerous topics within Deep Learning such as Style Transfer, Neural Turing Machines, generalizing neural network architecures to n-dimensional space, ResNet architectures for radar backscatter, and more. You can take a look at some of the linked pages to work from our members.
 
 ## This Semester
+Each semester, our team breaks into groups to pursue projects that our members are passionate about. This semester, we will be exploring a variety of topics, including Deep Reinforcement Learning and Generative Adversarial Networks.
 
-This semester, we are doing some stuff.
+* ### [**Group A**](https://github.com/CornellDataScience/GroupA)
 
-* ### [**Subproject A**](/SubprojectA)
+  **Members:** Leroy Jenkins (STAT '18), Ma Name Jeff (CS '20)   
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
+  
+* ### [**Group B**](https://github.com/CornellDataScience/GroupB)
 
-   **Members:** Xuwen Shen (STAT '18), Xinzhe Yang (CS '20)   
-   In order to give insights to overall ratings and then create a new personalized recommendation system based on the rating that account for his or her preferences, we were hoping to extract hidden information in reviews including an individual user’s preference and a business’s properties (scores for each feature of the business). Finally, we created a model combining the topics and overall ratings to get a personalized ratings for a specific user.
+  **Members:** Leroy Jenkins (STAT '18), Ma Name Jeff (CS '20)   
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
+  
+* ### [**Group C**](https://github.com/CornellDataScience/GroupC)
 
-* ### [**Neural Style Transfer For Text**](/dl_style_transfer)   
-  **Members:** Luca Leeser (INFO '18), Yuji Akimoto (ORIE '19), Ryan Butler (CS '19), Cameron Ibrahim (ORIE '20)   
-  We are seeking to modify the neural style transfer algorithm proposed by [Gatys et. al.](https://arxiv.org/abs/1508.06576) to make it applicable to text. Our goal is to devise an algorithm that is able to transfer the writing style of one review onto the content of another.   
+  **Members:** Leroy Jenkins (STAT '18), Ma Name Jeff (CS '20)   
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
 
 ## Previous Semesters
-You can look at work from previous semesters in the following repositories:
-* [Extracting Rating Dimensions from Hidden Topics in Text Reviews](/latent_variable/submission/extracting-rating-dimensions.pdf)
-* [Topic Modeling as a Trend-Aware Performance Metric](/topic_over_time/submission/CDS_final_submission.pdf)
-* [Identifying Experts in the Yelp Dataset](/local-experts/submission/Final_Paper.pdf)
-* [On the Use of K-Competitive Networks for Writing Style Transfer](/dl_style_transfer/submission/k-competitive-networks.pdf)
+* [Neural Style Transfer For Text](https://github.com/CornellDataScience/NLP_Research-FA17/tree/master/dl_style_transfer)
