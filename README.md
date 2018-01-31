@@ -28,5 +28,6 @@ Each semester, our team breaks into groups to pursue projects that our members a
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
 
 ## Previous Semesters
+### Fall 2017
 * [Neural Style Transfer For Text](https://github.com/CornellDataScience/NLP_Research-FA17/tree/master/dl_style_transfer)
 * [Statoil/C-CORE Iceberg Classifier Challenge](https://github.com/CornellDataScience/Kaggle-FA17/tree/master/iceberg)
