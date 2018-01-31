@@ -14,17 +14,17 @@ Each semester, our team breaks into groups to pursue projects that our members a
 
 * ### [**Group A**](https://github.com/CornellDataScience/GroupA)
 
-  **Members:** Leroy Jenkins (STAT '18), Ma Name Jeff (CS '20)   
+  **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
   
 * ### [**Group B**](https://github.com/CornellDataScience/GroupB)
 
-  **Members:** Leroy Jenkins (STAT '18), Ma Name Jeff (CS '20)   
+  **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)  
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
   
 * ### [**Group C**](https://github.com/CornellDataScience/GroupC)
 
-  **Members:** Leroy Jenkins (STAT '18), Ma Name Jeff (CS '20)   
+  **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)  
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
 
 ## Previous Semesters
