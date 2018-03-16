@@ -16,7 +16,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
   **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)   
   
   
-* ### [**Deep Reinforcement Learning (Specific Research Topic TBA)**]
+* ### Deep Reinforcement Learning (Specific Research Topic TBA)
 
   **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)  
   
