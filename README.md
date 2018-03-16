@@ -7,25 +7,24 @@
 **Advisor:** [Prof. Bharath Hariharan](http://home.bharathh.info)
 
 ## About Us
-The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science](cornelldata.science), a student led undergraduate project team at Cornell University. We are a group of students passionate about Deep Learning, whose shared knowledge and expertise enables us to pursue some of the most exciting Deep Learning projects at Cornell. Our team consists of about a dozen members, and we have worked on numerous topics such as Neural Style Transfer, Neural Turing Machines, generalizing neural network architecures to n-dimensional space, ResNet architectures for radar backscatter, and more.
+The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science](cornelldata.science), a student led undergraduate project team at Cornell University. We are a group of students passionate about Deep Learning, whose shared knowledge and expertise enables us to pursue some of the most exciting Deep Learning projects at Cornell. Our team consists of about a dozen members, and we have worked on numerous topics such as Neural Style Transfer, ResNet architectures for radar backscatter, and more.
 
-## This Semester
-Each semester, our team breaks into groups to pursue projects that our members are passionate about. This semester, we will be exploring a variety of topics, including Deep Reinforcement Learning and Generative Adversarial Networks.
+## Ongoing Research Efforts
 
-* ### [**Group A**](https://github.com/CornellDataScience/GroupA)
+* ### [**Generating Music**](https://github.com/CornellDataScience/TEMPO)
 
   **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
   
-* ### [**Group B**](https://github.com/CornellDataScience/GroupB)
+  
+* ### [**Deep Reinforcement Learning (Specific Research Topic TBA)**]
 
   **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)  
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
   
-* ### [**Group C**](https://github.com/CornellDataScience/GroupC)
+  
+* ### [**Distributed GPU Computing (Specifics TBA)**]
 
   **Members:** [Leroy Jenkins](https://github.com/LeroyJenkins) (STAT '18), [Ma Name Jeff](https://github.com/MaNameJeff) (CS '20)  
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut ligula sem. Sed feugiat molestie orci, non efficitur velit auctor ultrices. Proin non nisl condimentum magna suscipit ultrices. In pulvinar scelerisque mi, sed semper elit elementum non. In hac habitasse platea dictumst. Vestibulum in quam vel dolor feugiat interdum ut gravida metus. Nunc vitae eros eget tellus luctus luctus accumsan sit amet metus. Morbi eget faucibus augue.
+ 
 
 ## Previous Semesters
 ### Fall 2017
