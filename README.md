@@ -17,6 +17,11 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
   
   
 * ### Deep Reinforcement Learning (Specifics Coming Soon)  
+
+
+* ### Bayesian - Reinforcement Learning Collaboration (Specifics Coming Soon) 
+
+  **Investigators:** Kevin Luo, Dae Won Kim
   
   
 * ### Distributed GPU Computing (Specifics Coming Soon)
