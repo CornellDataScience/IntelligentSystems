@@ -11,7 +11,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 
 ## Ongoing Research Efforts
 
-* ### [**Generating Music**](https://github.com/CornellDataScience/TEMPO)
+* ### [**TEMPO: Transforming Existing Music to Produce Originals**](https://github.com/CornellDataScience/TEMPO)
 
   **Investigators:** Aaron Lou, Wes Gurnee, Qian Huang, Shengyuan Hu   
   
@@ -38,6 +38,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 
 
 ## Members
+* Ryan Butler
 * Kevin Luo
 * Yuji Akimoto
 * Qian Huang
@@ -55,7 +56,6 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * Joshua Popp
 * Luca Leeser
 * Samar Khanna
-* Ryan Butler
 * Nolan Gray
 * Dae Won Kim
 * Siddhant Navali
