@@ -16,14 +16,14 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
   **Investigators:** Aaron Lou, Wes Gurnee, Qian Huang, Shengyuan Hu   
   
   
-* ### Deep Reinforcement Learning (Specifics Coming Soon)  
+* ### HER (Specifics Coming Soon)  
 
-  **Investigators:** Shubhom Bhattacharya, Ryan Butler 
+  **Investigators:** Kevin Luo, Shubhom Bhattacharya 
 
 
 * ### The Intersection Between Bayesian methods and Deep Reinforcement Learning (Specifics Coming Soon) 
 
-  **Investigators:** Kevin Luo, Dae Won Kim
+  **Investigators:** Dae Won Kim
   
   
 * ### Distributed GPU Computing (Specifics Coming Soon)
