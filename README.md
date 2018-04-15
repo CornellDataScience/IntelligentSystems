@@ -16,7 +16,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
   **Investigators:** Aaron Lou, Wes Gurnee, Qian Huang, Shengyuan Hu   
   
   
-* ### [**HER**](https://github.com/CornellDataScience/HER)  
+* ### [**HER: Deep Reinforcement Learning in Sparse Environments**](https://github.com/CornellDataScience/HER)  
 
   **Investigators:** Kevin Luo, Shubhom Bhattacharya 
 
