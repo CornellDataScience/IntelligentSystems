@@ -21,14 +21,14 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
   **Investigators:** Kevin Luo, Shubhom Bhattacharya 
 
 
-* ### Bayesian Deep Learning (Specifics Coming Soon) 
+* ### [**Bayesian Deep Learning**](https://github.com/CornellDataScience/BayesianNeuralNets) 
 
   **Investigators:** Dae Won Kim, Cameron Ibrahim
   
   
 * ### Distributed GPU Computing (Specifics Coming Soon)
 
-  **Investigators:** Deep Learning - Data Engineering Collaboration  
+  **Investigators:** Jenna Kressin, Dae Won Kim, various Data Engineering members  
  
 
 ## Previous Semesters
