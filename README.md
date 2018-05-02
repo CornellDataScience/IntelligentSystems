@@ -31,11 +31,6 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
   **Investigators:** Jenna Kressin, Dae Won Kim, various Data Engineering members  
  
 
-## Previous Semesters
-### Fall 2017
-* [Neural Style Transfer For Text](https://github.com/CornellDataScience/NLP_Research-FA17/tree/master/dl_style_transfer)
-* [Statoil/C-CORE Iceberg Classifier Challenge](https://github.com/CornellDataScience/Kaggle-FA17/tree/master/iceberg)
-
 
 ## Members
 * Ryan Butler
