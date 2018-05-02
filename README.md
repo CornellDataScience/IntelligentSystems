@@ -7,7 +7,7 @@
 **Advisor:** [Prof. Bharath Hariharan](http://home.bharathh.info)
 
 ## About Us
-The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science](http://cornelldata.science), a student led undergraduate project team at Cornell University. We are a group of students passionate about Deep Learning, whose shared knowledge and expertise enables us to pursue some of the most exciting Deep Learning projects at Cornell. Our team has worked on numerous topics such as Neural Style Transfer, ResNet architectures for radar backscatter, and more.
+The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science](http://cornelldata.science), a student led undergraduate project team at Cornell University. We are a group of students passionate about Deep Learning, whose shared knowledge and expertise enables us to pursue both applications and research.
 
 ## Ongoing Research Efforts
 
