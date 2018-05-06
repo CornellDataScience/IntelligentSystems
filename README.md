@@ -33,24 +33,24 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 
 
 ## Members
-* Ryan Butler
-* Kevin Luo
-* Yuji Akimoto
-* Qian Huang
+* [Ryan Butler](https://github.com/TheButlah)
+* [Kevin Luo](https://github.com/KevLuo)
+* [Yuji Akimoto](https://github.com/yujiakimoto)
+* [Qian Huang](https://github.com/q-hwang)
 * Jenna Kressin
-* Aaron Lou
-* Shengyuan Hu
+* [Aaron Lou](https://github.com/daggertye)
+* [Shengyuan Hu](https://github.com/crudeplay)
 * Adam Skrocki
 * Sydney Oraskovich
-* Wes Gurnee
+* [Wes Gurnee](https://github.com/wesg52)
 * Jane Zhang
-* Cameron Ibrahim
-* Shubhom Bhattacharya
+* [Cameron Ibrahim](https://github.com/cameton)
+* [Shubhom Bhattacharya](https://github.com/shubhomb)
 * Magd Bayoumi
 * Peter Husisan
 * Joshua Popp
-* Luca Leeser
+* [Luca Leeser](https://github.com/ll698)
 * Samar Khanna
-* Nolan Gray
-* Dae Won Kim
+* [Nolan Gray](https://github.com/nolangray15)
+* [Dae Won Kim](https://github.com/dwkwvss)
 * Siddhant Navali
