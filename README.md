@@ -40,7 +40,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * Jenna Kressin
 * [Aaron Lou](https://github.com/daggertye)
 * [Shengyuan Hu](https://github.com/crudeplay)
-* Adam Skrocki
+* [Adam Skrocki](https://github.com/adams583)
 * Sydney Oraskovich
 * [Wes Gurnee](https://github.com/wesg52)
 * Jane Zhang
