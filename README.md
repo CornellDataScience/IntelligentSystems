@@ -46,7 +46,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * Jane Zhang
 * [Cameron Ibrahim](https://github.com/cameton)
 * [Shubhom Bhattacharya](https://github.com/shubhomb)
-* Magd Bayoumi
+* [Magd Bayoumi](https://github.com/bayoumi17m)
 * Peter Husisan
 * Joshua Popp
 * [Luca Leeser](https://github.com/ll698)
