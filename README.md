@@ -13,22 +13,22 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 
 * ### [**TEMPO: Transforming Existing Music to Produce Originals**](https://github.com/CornellDataScience/TEMPO)
 
-  **Investigators:** Aaron Lou, Wes Gurnee, Qian Huang, Shengyuan Hu   
+  **Members:** Aaron Lou, Wes Gurnee, Qian Huang, Shengyuan Hu   
   
   
 * ### [**HER: Deep Reinforcement Learning in Sparse Environments**](https://github.com/CornellDataScience/HER)  
 
-  **Investigators:** Kevin Luo, Shubhom Bhattacharya 
+  **Members:** Kevin Luo, Shubhom Bhattacharya 
 
 
 * ### [**Bayesian Deep Learning**](https://github.com/CornellDataScience/BayesianNeuralNets) 
 
-  **Investigators:** Dae Won Kim, Cameron Ibrahim
+  **Members:** Dae Won Kim, Cameron Ibrahim
   
   
 * ### Distributed GPU Computing (Specifics Coming Soon)
 
-  **Investigators:** Jenna Kressin, Dae Won Kim, various Data Engineering members  
+  **Members:** Jenna Kressin, Dae Won Kim, various Data Engineering members  
  
 
 
