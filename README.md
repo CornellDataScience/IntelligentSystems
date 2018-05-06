@@ -47,7 +47,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * [Cameron Ibrahim](https://github.com/cameton)
 * [Shubhom Bhattacharya](https://github.com/shubhomb)
 * [Magd Bayoumi](https://github.com/bayoumi17m)
-* Peter Husisan
+* [Peter Husisan](https://github.com/pete2fiddy)
 * Joshua Popp
 * [Luca Leeser](https://github.com/ll698)
 * Samar Khanna
