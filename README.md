@@ -43,7 +43,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * [Adam Skrocki](https://github.com/adams583)
 * Sydney Oraskovich
 * [Wes Gurnee](https://github.com/wesg52)
-* Jane Zhang
+* [Jane Zhang](https://github.com/jz393)
 * [Cameron Ibrahim](https://github.com/cameton)
 * [Shubhom Bhattacharya](https://github.com/shubhomb)
 * [Magd Bayoumi](https://github.com/bayoumi17m)
