@@ -37,11 +37,11 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * [Kevin Luo](https://github.com/KevLuo)
 * [Yuji Akimoto](https://github.com/yujiakimoto)
 * [Qian Huang](https://github.com/q-hwang)
-* Jenna Kressin
+* [Jenna Kressin](https://github.com/jek343)
 * [Aaron Lou](https://github.com/daggertye)
 * [Shengyuan Hu](https://github.com/crudeplay)
 * [Adam Skrocki](https://github.com/adams583)
-* Sydney Oraskovich
+* [Sydney Oraskovich](https://github.com/svo6)
 * [Wes Gurnee](https://github.com/wesg52)
 * [Jane Zhang](https://github.com/jz393)
 * [Cameron Ibrahim](https://github.com/cameton)
@@ -50,7 +50,7 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * [Peter Husisan](https://github.com/pete2fiddy)
 * [Joshua Popp](https://github.com/jmp448)
 * [Luca Leeser](https://github.com/ll698)
-* Samar Khanna
+* [Samar Khanna](https://github.com/Dieblitzen)
 * [Nolan Gray](https://github.com/nolangray15)
 * [Dae Won Kim](https://github.com/dwkwvss)
-* Siddhant Navali
+* [Siddhant Navali](https://github.com/siddhantn1)
