@@ -49,10 +49,8 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * [Magd Bayoumi](https://github.com/bayoumi17m)
 * [Peter Husisan](https://github.com/pete2fiddy)
 * [Joshua Popp](https://github.com/jmp448)
-* [Luca Leeser](https://github.com/ll698)
 * [Samar Khanna](https://github.com/Dieblitzen)
 * [Nolan Gray](https://github.com/nolangray15)
-* [Dae Won Kim](https://github.com/dwkwvss)
 * [Siddhant Navali](https://github.com/siddhantn1)
 
 For the full list of alumni, see [here](history/alumni.MD).
