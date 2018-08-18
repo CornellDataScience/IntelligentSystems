@@ -1,6 +1,6 @@
-# Progress Report Example
+# Sprint Board Example
 
-08/27 - 09/03 (Katrina Smith):
+08/27 - 09/03: Katrina Smith
 * Not Started
   * Read [ResNet paper](https://arxiv.org/abs/1512.03385)
   * Delete images that are all the same color (=junk)
