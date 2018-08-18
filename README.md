@@ -1,4 +1,4 @@
-# Deep Learning Subteam
+# Intelligent Systems Subteam
 
 [![Cornell Data Science Logo](images/CDS-banner.png)](http://cornelldata.science)
 
