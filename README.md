@@ -53,6 +53,6 @@ The Deep Learning (DL) Subteam is one of three subteams in [Cornell Data Science
 * [Nolan Gray](https://github.com/nolangray15)
 * [Siddhant Navali](https://github.com/siddhantn1)
 
-For the full list of alumni, see [here](history/alumni.MD).
+For the full list of alumni, see [here](https://github.com/CornellDataScience/DeepLearning/blob/master/history/alumni.md).
 
 
