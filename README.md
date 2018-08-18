@@ -3,7 +3,7 @@
 [![Cornell Data Science Logo](images/CDS-banner.png)](http://cornelldata.science)
 
 
-**Team Leads:** [Ryan Butler](https://github.com/TheButlah) (CS '19) and [Kevin Luo](https://github.com/KevLuo) (CS '20)  
+**Team Leads:** [Yuji Akimoto](https://github.com/yujiakimoto) (CS '19) and [Kevin Luo](https://github.com/KevLuo) (CS '20)  
 **Advisor:** [Prof. Bharath Hariharan](http://home.bharathh.info)
 
 ## About Us
