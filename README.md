@@ -35,8 +35,8 @@ The Intelligent Systems Subteam is one of three subteams in [Cornell Data Scienc
 
 #### Freshmen
 Coming soon!
-
-
+  
+  
 For the full list of alumni, see [here](https://github.com/CornellDataScience/IntelligentSystems/blob/master/history/alumni.md).
 
 
