@@ -11,17 +11,17 @@ The Intelligent Systems Subteam is one of three subteams in [Cornell Data Scienc
 
 ## Current Projects
 
-* ## [**Continuous-Impurity: Defining and testing a continuous impurity cost**](https://github.com/CornellDataScience/Continuous-Impurity)  
+* ### [**Continuous-Impurity: Defining and testing a continuous impurity cost**](https://github.com/CornellDataScience/Continuous-Impurity)  
 
-* ## [**IBM-Research: Satellite vision to map the unmapped world**](https://cornelldata.science/)  
+* ### [**IBM-Research: Satellite vision to map the unmapped world**](https://cornelldata.science/)  
 
-* ## [**Piccione: An automated question answering system for Piazza**](https://github.com/CornellDataScience/piccione)
+* ### [**Piccione: An automated question answering system for Piazza**](https://github.com/CornellDataScience/piccione)
 
-* ## [**PneumoniaDetection: Detecting and localizing lung opacities in radio-graphs**](https://github.com/CornellDataScience/PneumoniaDetection)  
+* ### [**PneumoniaDetection: Detecting and localizing lung opacities in radio-graphs**](https://github.com/CornellDataScience/PneumoniaDetection)  
 
-* ## [**RL-Halite: A reinforcement learning agent for the game halite.io**](https://github.com/CornellDataScience/RL-Halite)
+* ### [**RL-Halite: A reinforcement learning agent for the game halite.io**](https://github.com/CornellDataScience/RL-Halite)
 
-* ## [**Summarization: Abstractively summarize information using machines**](https://github.com/CornellDataScience/Summarization)  
+* ### [**Summarization: Abstractively summarize information using machines**](https://github.com/CornellDataScience/Summarization)  
 
 ## Members
 #### Seniors
@@ -35,6 +35,7 @@ The Intelligent Systems Subteam is one of three subteams in [Cornell Data Scienc
 
 #### Freshmen
 Coming soon!
+
 
 For the full list of alumni, see [here](https://github.com/CornellDataScience/IntelligentSystems/blob/master/history/alumni.md).
 
