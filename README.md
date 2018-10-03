@@ -15,7 +15,7 @@ The Intelligent Systems Subteam is one of three subteams in [Cornell Data Scienc
 
 * ### [**IBM-Research: Satellite vision to map the unmapped world**](https://cornelldata.science/)  
 
-* ### [**Piccione: An automated question answering system for Piazza**](https://github.com/CornellDataScience/piccione)
+* ### [**iFAQ: An automated question answering system**](https://github.com/CornellDataScience/piccione)
 
 * ### [**PneumoniaDetection: Detecting and localizing lung opacities in radio-graphs**](https://github.com/CornellDataScience/PneumoniaDetection)  
 
