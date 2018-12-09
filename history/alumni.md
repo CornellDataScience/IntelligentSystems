@@ -86,4 +86,4 @@ The team was renamed to the "Intelligent Systems Subteam". The team continued to
 * [Matthew Bayer](https://github.com/mattewbayer)
 * [Cora Wu](https://github.com/cjw322)
 * Joseph Campbell
-* Xiuyu Li
+* [Xiuyu Li](https://github.com/lxywizard)
