@@ -85,5 +85,5 @@ The team was renamed to the "Intelligent Systems Subteam". The team continued to
 * [Bella Kang](https://github.com/whopperjr)
 * [Matthew Bayer](https://github.com/mattewbayer)
 * [Cora Wu](https://github.com/cjw322)
-* Joseph Campbell
+* [Joseph Campbell](https://github.com/Joe25C)
 * [Xiuyu Li](https://github.com/lxywizard)
