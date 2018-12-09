@@ -79,11 +79,11 @@ The team was renamed to the "Intelligent Systems Subteam". The team continued to
 ### Members from Other Subteams in CDS
 * [Arnav Ghosh](https://github.com/garnav)
 * [Zhao Shen](https://github.com/yuzhshen)
-* Katie Yang
+* [Katie Yang](https://github.com/yangkt)
 
 ### New Members
-* Bella Kang
+* [Bella Kang](https://github.com/whopperjr)
+* [Matthew Bayer](https://github.com/mattewbayer)
 * Cora Wu
 * Joseph Campbell
-* Matthew Bayer
 * Xiuyu Li
