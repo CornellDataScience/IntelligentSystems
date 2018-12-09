@@ -85,4 +85,5 @@ The team was renamed to the "Intelligent Systems Subteam". The team continued to
 * Bella Kang
 * Cora Wu
 * Joseph Campbell
+* Matthew Bayer
 * Xiuyu Li
