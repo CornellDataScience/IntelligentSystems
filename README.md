@@ -18,6 +18,8 @@ We operate at the intersection of the latest research in machine learning and pr
 
 * [**Amazon Review Summarization: Clustering and autoencoders for review distillation**](https://github.com/CornellDataScience/IntSys-Sentiment-Summary)  
 
+* [**Seedlings: Classification of different types of maize**](https://github.com/CornellDataScience/IntSys-Seedling) 
+
 ## Members
 ### Seniors
 [Arnav Ghosh](https://github.com/garnav), [Zhao Shen](https://github.com/yuzhshen), [Brandon Kates](https://github.com/BrandonKates)
