@@ -20,7 +20,7 @@ We operate at the intersection of the latest research in machine learning and pr
 
 ## Members
 ### Seniors
-[Arnav Ghosh](https://github.com/garnav), [Zhao Shen](https://github.com/yuzhshen)
+[Arnav Ghosh](https://github.com/garnav), [Zhao Shen](https://github.com/yuzhshen), [Brandon Kates](https://github.com/BrandonKates)
 
 ### Juniors
 [Kevin Luo](https://github.com/KevLuo), [Nolan Gray](https://github.com/nolangray15), [Wes Gurnee](https://github.com/wesg52)
