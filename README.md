@@ -27,7 +27,7 @@ We operate at the intersection of the latest research in machine learning and pr
 ### Juniors
 [Kevin Luo](https://github.com/KevLuo), [Nolan Gray](https://github.com/nolangray15), [Wes Gurnee](https://github.com/wesg52)
 
-### Sophmores
+### Sophomores
 [Adam Skrocki](https://github.com/adams583), [Jane Zhang](https://github.com/jz393), [Jenna Kressin](https://github.com/jek343), [Katie Yang](), [Magd Bayoumi](https://github.com/bayoumi17m), [Peter Husisan](https://github.com/pete2fiddy), [Qian Huang](https://github.com/q-hwang), [Samar Khanna](https://github.com/Dieblitzen), Woocheol Hyun
 
 ### Freshmen
