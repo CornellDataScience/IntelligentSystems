@@ -36,7 +36,5 @@ Cora Wu,
 Matthew Bayer,
 Xiuyu Li
 
-  
-For the full list of alumni, see [here](https://github.com/CornellDataScience/IntelligentSystems/blob/master/history/alumni.md).
 
 
